@@ -31,8 +31,10 @@ class Signer:
             s.proxies = cls.proxies
 
         # login
-        username = b64decode(b"").decode("utf8") # 填用户名
-        password = b64decode(b"").decode("utf8") # 填密码
+        username = 851962636@qq.com
+        password = plmoknlm12333
+#         username = b64decode(b"").decode("utf8") # 填用户名
+#         password = b64decode(b"").decode("utf8") # 填密码
         res = s.post(
             "https://jike0.com/auth/login",
             data={"email": username, "passwd": password, "code": ""}
