@@ -1,57 +1,54 @@
 {
     "0.jpg": [
-        "Michael Jackson {} T-Shirt",
-        "Michael Jackson {} plain T-Shirt",
-        "Michael Jackson portrait {} white T-Shirt",
-        "Michael Jackson portrait {} plain T-Shirt",
-        "Michael Jackson portrait {} white T-Shirt, simple background",
-        "Michael Jackson portrait {} plain T-Shirt, white background"
+        "a family of three in {}",
+        "a night train station scene where a family of three is waiting for their train, their dog sitting quietly, while a stray cat is in search of food. In the background, the old train station building looks serene and majestic under the moonlight, with the train tracks stretching into the distant in {}"
     ],
     "1.jpg": [
-        "rose with leaves {} a white vase",
-        "red flower with leaves {} a white vase, orange background"
+        "a tranquil seaside resort scene where a dog and a cat in {}",
+        "a tranquil seaside resort scene where a dog joyfully running through the sea waves, while a lazy cat dozes off under a nearby sun umbrella. In the background, a row of colorful beach cottages contrasts with the blue sky and shimmering sea in {}"
     ],
     "2.jpg": [
-        "cat {} rock",
-        "a cat head {} a rock, white background"
+        "a man and his dog are strolling through the snow in {}",
+        "Create a quiet snowy town scene in Stable Diffusion, where a man and his dog are strolling through the snow, passing by an old wooden house, with a cat curiously peering out from the window. Snowflakes fall, covering the town's buildings and streets, forming a tranquil and beautiful winter image in {}"
     ],
     "3.jpg": [
-        "cat {} building",
-        "cat {} wall"
+        "a woman reads, her cat stretches beside her in {}",
+        "On a rustic rooftop, a woman reads, her cat stretches beside her, and her dog watches birds fly from a nearby colonial building in {}",
+        "a rustic apartment rooftop, where a young woman is reading books, her cat stretching beside her, while her dog curiously watches a group of birds take flight from the neighboring colonial-style building in {}"
     ],
     "4.jpg": [
-        "hamburger {} hat",
-        "hamburger {} cap",
-        "hamburger {} white cap",
-        "hamburger {} white cap, white background"
+        "Amidst mountains, a meadow with grazing deer and a distant stream in {}",
+        "Amidst mountains, a meadow with blooming wildflowers and deer unfolds, a clear stream weaving through in {}",
+        "Nestled among mountains, a meadow with colorful wildflowers and peaceful deer extends, a stream meandering in the distance in {}",
+        "Nestled among towering mountains, a lush meadow stretches out. Wildflowers of various colors bloom amidst the green, and a few deer graze peacefully. In the distance, a clear stream winds its way through the landscape in {}"
     ],
     "5.jpg": [
-        "rabbit {} wall",
-        "rabbit {} building",
-        "rabbit {} building, purple background",
-        "rabbit {} building, green ivy and purple background"
+        "a clear stream winds its way through the landscape in {}",
+        "a clear stream winds its way through the landscape, green background in {}",
+        "a clear stream winds its way through the landscape, green background, wildflowers of various colors bloom amidst the green in {}"
     ],
     "6.jpg": [
-        "bunny {} canvas",
-        "rabbit {} canvas"
+        "A middle-aged man go through a mountain with a heavy backpack in {}",
+        "A middle-aged man go through a mountain with a heavy backpack, pausing to catch his breath and looking up in awe at an ancient in {}",
+        "A middle-aged man go through a mountain with a heavy backpack, pausing to catch his breath and looking up in awe at an ancient, towering tree covered in moss and surrounded by vibrant exotic flowers in {}"
     ],
     "7.jpg": [
-        "bunny {} phone",
-        "bunny {} phone case",
-        "rabbit {} phone",
-        "rabbit {} phone shell",
-        "rabbit {} phone, white background",
-        "rabbit {} phone case, simple background"
+        "Families browse tables filled with second-hand treasures {}",
+        "Families browse tables filled with second-hand treasures, from vintage trinkets to books and clothes in {}",
+        "Families browse tables filled with second-hand treasures, from vintage trinkets to books and clothes, Sellers negotiate prices in {}",
+        "Families browse tables filled with second-hand treasures, from vintage trinkets to books and clothes, Sellers negotiate prices, kids try out old toys in {}" 
     ],
     "8.jpg": [
-        "angry bird {} water bottle",
-        "angry bird {} blue water bottle",
-        "blue angry bird {} blue water bottle",
-        "blue angry bird {} blue water bottle, khaki background"
+        "Children's laughter fills the air as they swing in {}",
+        "Children's laughter fills the air as they swing, slide, and climb in a vibrant playground in {}",
+        "Children's laughter fills the air as they swing, slide, and climb in a vibrant playground, Parents chat on nearby benches in {}",
+        "Children's laughter fills the air as they swing, slide, and climb in a vibrant playground, Parents chat on nearby benches, while a group of teens play basketball on an adjacent court in {}"
     ],
     "9.jpg": [
-        "cat {} case",
-        "cat {} hand case",
-        "cat {} hand case, white background"
+        "A carnival with a towering Ferris wheel featuring vibrant cabins in {}",
+        "A carnival with a towering Ferris wheel featuring vibrant cabins, Below, children in festive attire explore in {}",
+        "A carnival with a towering Ferris wheel featuring vibrant cabins, Below, children in festive attire explore in {}",
+        "A carnival with a towering Ferris wheel featuring vibrant cabins, Below, children in festive attire explore, with two girls in pink dresses and a boy nearby in {}",
+        "A carnival with a towering Ferris wheel featuring vibrant cabins, Below, children in festive attire explore, with two girls in pink dresses and a boy nearby. Stalls with colorful canopies offer treats to passersby in {}"
     ]
 }
